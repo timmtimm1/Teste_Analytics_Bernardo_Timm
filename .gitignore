@@ -8,5 +8,4 @@ env/
 *.db
 .env
 .venv
-.ipynb_checkpoints/
 .DS_Store
